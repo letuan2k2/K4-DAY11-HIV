@@ -1,1 +1,5 @@
-id,date,question,decision,rationale,status
+﻿issue_id,finding_ref,status,rationale
+1,1,rework,cần sửa
+2,2,rework,cần sửa
+3,3,keep,ok
+4,4,escalated,khó

@@ -1,0 +1,9 @@
+round: rework
+slice: B4-center
+sha256: aac13d618548cd285c2dda57e4eafeffbc580a0091a84ff7207c943d9cb40018
+code: AAC1-3D61
+locked_at: 2026-09-29T13:59:02+07:00
+shapes: box=27, polygon=10
+prefill_kept: 1
+prefill_edited: 3
+new: 23

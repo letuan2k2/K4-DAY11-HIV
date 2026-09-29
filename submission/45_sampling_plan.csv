@@ -1,9 +1,9 @@
-camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+﻿camera_id,slice_type,frames,risk,rationale
+front,normal,20,Trung bình,Cần baseline chất lượng phía trước
+front,hard,40,Cao,Nhiều xe chạy tới và vật cản phức tạp
+rear,normal,20,Trung bình,Baseline phía sau
+rear,hard,30,Cao,Xe bám đuôi sát và bị che khuất
+left,normal,20,Thấp,Làn đường ít xe hơn
+left,hard,30,Trung bình,Người đi xe máy/xe đạp vượt sát cạnh
+right,normal,20,Thấp,Lề đường ít biến động
+right,hard,20,Trung bình,Người đi bộ lề đường và điểm mù
